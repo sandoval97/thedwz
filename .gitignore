@@ -1,0 +1,8 @@
+*.pyc
+.vscode/*
+*sqlite3*
+*env2/*
+__pycache__/*
+celerybeat-schedule.db
+thedwz/settings/__pycache__/*
+thedwz/__pycache__/*
