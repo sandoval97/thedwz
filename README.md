@@ -26,7 +26,7 @@ So navigate to `http://127.0.0.1:8000/api/v1/`. To see available endpoints
 Returns the list of 15 jokes from chucknorris API: 
 
 ```sh
-    /api/v1/random-jokes/
+    /api/v1/chucknorris/random-jokes/
 
     * output
     json
